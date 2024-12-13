@@ -27,6 +27,7 @@ This is still work in progress
 
 - 🌐 Blog/Website: work in progress
 - 🐦 Nostr: https://primal.net/p/npub1rjtfxleq6ujtqwtqxan9vp8ld2r8hnalcdxcn0yls3szgvrphhtqzt7q5m#notes
+- 🕵️‍♂️ Matrix: https://matrix.to/#/@nexis:pp0.co
 
 ---
 
