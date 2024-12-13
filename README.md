@@ -15,7 +15,6 @@ This is still work in progress
 - **Languages:** Rust 🦀, Python 🐍, Bash 
 - **Frameworks & Libraries:** 
 - **Tools I Like:**
-- **Databases:**
   
 ---
 
