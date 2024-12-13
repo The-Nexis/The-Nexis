@@ -2,7 +2,7 @@
 
 Welcome to my little corner of GitHub! I tinker with code, break things (intentionally, I promise), and try to make the digital world a little more free.  
 
-This is still work in progress 
+If you think about it, everything in life is work in progress. 
 
 ---
 
