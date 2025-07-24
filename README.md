@@ -12,7 +12,7 @@ If you think about it, everything in life is work in progress.
 
 ## 🛠️ Tools of the Trade  
 
-- **Languages:** Rust 🦀, Python 🐍, Bash 
+- **Languages:** Rust 🦀, Python 🐍
 - **Frameworks & Libraries:** 
 - **Tools I Like:**
   
