@@ -2,8 +2,6 @@
 
 Welcome to my little corner of GitHub! I tinker with code, break things (intentionally, I promise), and try to make the digital world a little more free.  
 
-If you think about it, everything in life is work in progress. 
-
 ---
 
 ## 🍳 What I’m Cooking  
@@ -12,10 +10,6 @@ If you think about it, everything in life is work in progress.
 
 ## 🛠️ Tools of the Trade  
 
-- **Languages:** Rust 🦀, Python 🐍
-- **Frameworks & Libraries:** 
-- **Tools I Like:**
-  
 ---
 
 ## 🎯 Goals  
@@ -24,9 +18,9 @@ If you think about it, everything in life is work in progress.
 
 ## 📡 Let’s Connect  
 
-- 🌐 Blog/Website: work in progress
-- 𓅦 Nostr: https://primal.net/p/npub1rjtfxleq6ujtqwtqxan9vp8ld2r8hnalcdxcn0yls3szgvrphhtqzt7q5m#notes
-- 🕵️‍♂️ Matrix: https://matrix.to/#/@nexis:pp0.co
+- 🌐 Website: https://the-nexis.github.io/digital_garden/en/
+- 𓅦 Nostr: https://nostrudel.ninja/u/npub1rjtfxleq6ujtqwtqxan9vp8ld2r8hnalcdxcn0yls3szgvrphhtqzt7q5m
+- 🕵️‍♂️ Matrix: https://matrix.to/#/@nexis:agora.fl.cr
 
 ---
 
