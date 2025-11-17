@@ -1,6 +1,8 @@
 # 👾 Hey, I’m Nexis!  
 
-Welcome to my little corner of GitHub! I tinker with code, break things (intentionally, I promise), and try to make the digital world a little more free.  
+Welcome to my little corner of GitHub!
+
+Profile WIP
 
 ---
 
