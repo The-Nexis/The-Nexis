@@ -4,23 +4,11 @@ Welcome to my little corner of GitHub! I tinker with code, break things (intenti
 
 ---
 
-## 🍳 What I’m Cooking  
-
----
-
-## 🛠️ Tools of the Trade  
-
----
-
-## 🎯 Goals  
-
----
-
 ## 📡 Let’s Connect  
 
-- 🌐 Website: https://the-nexis.github.io/digital_garden/en/
-- 𓅦 Nostr: https://nostrudel.ninja/u/npub1rjtfxleq6ujtqwtqxan9vp8ld2r8hnalcdxcn0yls3szgvrphhtqzt7q5m
-- 🕵️‍♂️ Matrix: https://matrix.to/#/@nexis:agora.fl.cr
+- Website: WIP
+- Nostr: https://nostrudel.ninja/u/npub1rjtfxleq6ujtqwtqxan9vp8ld2r8hnalcdxcn0yls3szgvrphhtqzt7q5m
+- Matrix: https://matrix.to/#/@nexis:agora.fl.cr
 
 ---
 
